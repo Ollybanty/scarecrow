@@ -1,0 +1,44 @@
+.title {
+  font-family: "Inconsolata", monospace;
+  /* font-weight: 700; */
+}
+
+.goodNews {
+  font-family: "Space Mono", monospace;
+  margin-bottom: 3rem;
+}
+
+.subNews {
+  font-family: "Space Mono", monospace;
+  font-size: 17px;
+}
+
+.scarecrow-wrap {
+  margin-top: 80px;
+}
+
+.homeBtn {
+  border-radius: 0;
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  font-weight: 700;
+  height: 45px;
+  width: 150px;
+  padding: 10px;
+  background-color: #333333;
+  margin-top: 3rem;
+}
+
+.scarecrowImg img {
+  height: 100%;
+  width: 100%;
+  max-height: 400px;
+  max-width: 500px;
+}
+
+footer {
+  position: absolute;
+  margin-top: 5rem;
+  right: 0;
+  left: 0;
+}
